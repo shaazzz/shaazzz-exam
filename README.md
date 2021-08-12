@@ -5,6 +5,7 @@
 ## [۱۳۹۹-۰۰](1399-00/)
 * [آزمون تستی مرحله ۱ ای](1399-00/Theory1/)
 * [مسابقه المپیادی ۸، کوئرا](https://quera.ir/contest/assignments/31913/problems)
+* [مسابقه المپیادی ۹، کوئرا](https://quera.ir/contest/assignments/32020/problems)
 
 ## [۱۳۹۸-۹۹](1398-99/)
 * آزمون تئوری اول
